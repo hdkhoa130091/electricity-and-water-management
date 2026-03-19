@@ -1,3 +1,13 @@
-lib: chứa các file dart của dự án
-pubspec.yaml: chứa các phiên bản gói package mà dự án sử dung
-Note: 2 file này đã nằm trong source code trong phần guilde 
+## 📂 Cấu trúc thư mục dự án
+```text
+├── lib/
+│   ├── blocs/                  # Quản lý trạng thái ứng dụng - BLoC Pattern (in progress...)
+│   ├── Data/                   # Biến dữ liệu
+│   ├── screens/                # Giao diện người dùng (UI screens)
+│   ├── services/               # Logic kết nối BLE & Firebase
+│   ├── app.dart                # Cấu hình chính của ứng dụng
+│   ├── app_view.dart           # Widget hiển thị gốc
+│   ├── firebase_options.dart   # Cấu hình tự động từ Firebase
+│   └── main.dart               # Điểm khởi chạy (Entry point)
+├── pubspec.yaml                # Quản lý dependencies và thư viện
+└── README.md                   # Tài liệu hướng dẫn dự án

@@ -1,5 +1,4 @@
-## 📂 Cấu trúc thư mục dự án
-```text
+📂 Cấu trúc thư mục dự án
 ├── lib/
 │   ├── blocs/                  # Quản lý trạng thái ứng dụng - BLoC Pattern (in progress...)
 │   ├── Data/                   # Biến dữ liệu

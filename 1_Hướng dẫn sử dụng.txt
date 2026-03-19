@@ -1,0 +1,13 @@
+Dự án "electricity and water management for the neighborhood" gồm các file chính sau:
+
+- Video mô tả tổng quan chức năng và giao diện của dự án.
+
+- describe_guide_CK_ESP32_Flutter_combined.docx: Báo cáo toàn bộ hệ thống dự án, từ giao diện chức năng đến hướng dẫn tải Arduino IDE và Android Studio cho mọi người từ cơ bản nhất với hình ảnh minh họa (đã bao gồm source code của dự án).
+
+- guide_CK_ESP32_Flutter.docx: Chứa hướng dẫn tải Arduino IDE và Android Studio cho mọi người từ cơ bản nhất với hình ảnh minh họa (đã bao gồm source code của dự án).
+
+- Folder electricity and water management for the neighborhood: Chứa toàn bộ file dart của dự án và các package dùng cho dự án.
+
+- link_figma.txt: Chứa đường dẫn đến giao diện Figma.
+
+- SDT_lienhe.txt: Chứa số điện thoại để liên hệ khi cần.

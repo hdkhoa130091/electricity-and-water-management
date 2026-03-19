@@ -1,6 +1,6 @@
 # 🚀 IoT electricity and water management & Monitoring System
 
-Hệ thống thu thập, nhận diện dữ liệu cảm biến qua giao thức **Bluetooth Low Energy (BLE)**, đồng bộ hóa thời gian thực lên **Firebase** và hiển thị trên ứng dụng di động **Flutter**.
+Hệ thống mô phỏng thu thập, nhận diện dữ liệu cảm biến qua giao thức **Bluetooth Low Energy (BLE)**, đồng bộ hóa thời gian thực lên **Firebase** và hiển thị trên ứng dụng di động **Flutter**.
 
 ---
 

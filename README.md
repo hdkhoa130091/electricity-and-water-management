@@ -4,7 +4,7 @@
 
 ---
 
-## Deprecated demo
+## Demo
 ![video_demo_CK_mobile_application-ezgif com-video-to-gif-converter (3)](https://github.com/user-attachments/assets/daa347e7-0c5d-46b2-b26e-8b81836c7951)
 ![video_demo_CK_mobile_application-ezgif com-video-to-gif-converter (4)](https://github.com/user-attachments/assets/77c422b8-f7fd-4e88-8526-c485a85fc3bb)
 
